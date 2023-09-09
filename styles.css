@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Caveat', cursive;
     box-sizing: border-box;
 }
 body{
@@ -28,7 +28,7 @@ body{
 .title{
     max-width: 500px;
     min-width: 400px;
-    font-size: 30px;
+    font-size: 37px;
     text-align: center;
     resize: none;
     background-color:#fffcfc;
@@ -53,7 +53,7 @@ body{
     background-color: #ebe5ffa7;
     border-color: #bc7fea85;
     padding: 30px;
-    font-size: medium;
+    font-size: 23px;
     color: #637eb7;
     font-weight: 600;
     resize: none;
